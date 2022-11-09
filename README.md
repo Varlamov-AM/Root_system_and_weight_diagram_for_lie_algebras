@@ -1,0 +1,1 @@
+# Root_system_and_weight_diagram_for_lie_algebras
